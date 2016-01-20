@@ -30,7 +30,12 @@
 	width: 20%;
 	height: 20%;
 	}
+#appName{
+	position: absolute;
+	left: 75% ;
+	top: 10%;
 
+}
 #bb {
 	display: none;
 }
